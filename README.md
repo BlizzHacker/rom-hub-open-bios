@@ -1,5 +1,7 @@
 # open-bios plugin for ROM Hub
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Implements the RPP v1 `firmware` capability: **clean-room, openly licensed
 BIOS replacements**, downloaded into the Hub's configured firmware
 directory and — where the library server can hold firmware — filed there
