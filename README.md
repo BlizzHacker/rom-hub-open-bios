@@ -18,8 +18,6 @@ MoveWeight
 
 </td></tr></table>
 
-
-
 Implements the RPP v1 `firmware` capability: **clean-room, openly licensed
 BIOS replacements**, downloaded into the Hub's configured firmware
 directory and — where the library server can hold firmware — filed there
